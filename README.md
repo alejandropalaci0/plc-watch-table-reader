@@ -25,16 +25,6 @@ It was designed with usability and efficiency in mind, especially for environmen
 
 ---
 
-## 🚀 Installation
-
-1. Clone this repository:
-
-```bash
-git clone https://alejandropalaci0/plc-watch-table-reader.git
-cd plc-watch-table-reader
-```
----
-
 ## 🛠️ Technical Requirements
 
 To run and develop **PLC Watch Table Reader**, the following software and libraries are required:
