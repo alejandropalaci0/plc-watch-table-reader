@@ -1,6 +1,7 @@
 __pycache__/
 *.pyc
 *.log
+shared/
 logs/
 input/
 output/
